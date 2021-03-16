@@ -14,7 +14,7 @@
 ## Demo
 Link: [https://flight-fare-prediction-flask.herokuapp.com/](https://flight-fare-prediction-flask.herokuapp.com/)
 
-[(https://i.imgur.com/R1g2wvC.png)]https://flight-fare-prediction-flask.herokuapp.com/)
+[![](https://i.imgur.com/R1g2wvC.png)](https://flight-fare-prediction-flask.herokuapp.com/)
 
 
 
